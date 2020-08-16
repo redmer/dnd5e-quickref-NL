@@ -1,8 +1,8 @@
 data_reaction = [
     {
-        title: "Opportunity attack",
+        title: "Kansaanval",
         icon: "crossed-swords",
-        subtitle: "Enemy leaves your reach",
+        subtitle: "Tegenstander verlaat je aanvalsbereik",
         description: "You can rarely move heedlessly past your foes without putting yourself in danger",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -13,9 +13,9 @@ data_reaction = [
         ]
     },
     {
-        title: "Readied action",
+        title: "Klaargezette actie",
         icon: "stopwatch",
-        subtitle: "Part of your Ready action",
+        subtitle: "Onderdeel van je Klaarzetten-actie",
         description: "Execute the reaction specified by your Ready action",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -23,9 +23,9 @@ data_reaction = [
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Een spreuk uitspreken",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 reaction",
+        subtitle: "Uitspreekduur van 1 reactie",
         description: "Cast a spell with a casting time of 1 reaction",
         reference: "PHB, pg. 192.",
         bullets: [
