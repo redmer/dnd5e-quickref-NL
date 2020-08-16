@@ -63,9 +63,9 @@ data_action = [
         ]
     },
     {
-        title: "Afbreken",
+        title: "Terugtrekken",
         icon: "journey",
-        subtitle: "Voorkom kansaanvallen",
+        subtitle: "Voorkomt kansaanvallen",
         description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
         reference: "PHB, pg. 192.",
         bullets: [
