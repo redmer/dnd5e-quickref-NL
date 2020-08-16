@@ -1,8 +1,8 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
+        title: "Anderhandse aanval",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
+        subtitle: "Wanneer je actie Aanvallen was",
         description: "Attack with your off hand",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
@@ -13,9 +13,9 @@ data_bonusaction = [
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Een spreuk uitspreken",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 bonus action",
+        subtitle: "Uitspreektijd van 1 bonusactie",
         description: "Cast a spell with a casting time of 1 bonus action",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -24,9 +24,9 @@ data_bonusaction = [
         ]
     },
     {
-        title: "Use class feature",
+        title: "Gebruik klassefunctie",
         icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
+        subtitle: "Sommige functies gebruiken bonusacties",
         description: "Use a racial or class feature that uses a bonus action",
         reference: "See class page for more information.",
         bullets: [
