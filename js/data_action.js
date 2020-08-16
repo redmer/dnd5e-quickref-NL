@@ -1,8 +1,8 @@
 data_action = [
     {
-        title: "Attack",
+        title: "Aanvallen",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
+        subtitle: "Mêlee- of astandsaanval",
         description: "Perform a melee or ranged attack with your weapon",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
@@ -14,9 +14,9 @@ data_action = [
         ]
     },
     {
-        title: "Grapple",
+        title: "Vastgrijpen",
         icon: "grab",
-        subtitle: "Special melee attack",
+        subtitle: "Bijzondere mêlee-aanval",
         description: "Attempt to grab a creature or wrestle with it",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -27,9 +27,9 @@ data_action = [
         ]
     },
     {
-        title: "Shove",
+        title: "Douw geven",
         icon: "hand",
-        subtitle: "Special melee attack",
+        subtitle: "Bijzondere mêlee-aanval",
         description: "Shove a creature, either to knock it prone or push it away from you",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -40,9 +40,9 @@ data_action = [
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Een spreuk uitspreken",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 action",
+        subtitle: "Uitspreektijd van 1 actie",
         description: "Cast a spell with a casting time of 1 action",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -53,9 +53,9 @@ data_action = [
         ]
     },
     {
-        title: "Dash",
+        title: "Sprinten",
         icon: "sprint",
-        subtitle: "Double movement speed",
+        subtitle: "Dubbele bewegingssnelheid",
         description: "Gain extra movement for the current turn",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -63,18 +63,18 @@ data_action = [
         ]
     },
     {
-        title: "Disengage",
+        title: "Afbreken",
         icon: "journey",
-        subtitle: "Prevent opportunity attacks",
+        subtitle: "Voorkom kansaanvallen",
         description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
         reference: "PHB, pg. 192.",
         bullets: [
         ]
     },
     {
-        title: "Dodge",
+        title: "Ontwijken",
         icon: "aura",
-        subtitle: "Increase defenses",
+        subtitle: "Versterkt verdediging",
         description: "Focus entirely on avoiding attacks",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -83,9 +83,9 @@ data_action = [
         ]
     },
     {
-        title: "Escape",
+        title: "Ontsnappen",
         icon: "manacles",
-        subtitle: "Escape a grapple",
+        subtitle: "Ontsnap je vastgrijper",
         description: "Escape a grapple",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -94,9 +94,9 @@ data_action = [
         ]
     },
     {
-        title: "Help",
+        title: "Helpen",
         icon: "telepathy",
-        subtitle: "Grant an ally advantage",
+        subtitle: "Geef een bondgenoot een voordeelworp",
         description: "Grant an ally advantage on an ability check or attack",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -106,9 +106,9 @@ data_action = [
         ]
     },
     {
-        title: "Use Object",
+        title: "Object gebruiken",
         icon: "snatch",
-        subtitle: "Interact, use special abilities",
+        subtitle: "Interactie met bijzonder object",
         description: "Interact with a second object or use special object abilities",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -117,9 +117,9 @@ data_action = [
         ]
     },
     {
-        title: "Use shield",
+        title: "Schild gebruiken",
         icon: "round-shield",
-        subtitle: "Equip or unequip a shield",
+        subtitle: "Een schild oppakken of afleggen",
         description: "Equip or unequip a shield",
         reference: "PHB, pgs. 144-146.",
         bullets: [
@@ -128,7 +128,7 @@ data_action = [
         ]
     },
     {
-        title: "Hide",
+        title: "Verstoppen",
         icon: "hood",
         subtitle: "",
         description: "Attempt to hide",
@@ -142,7 +142,7 @@ data_action = [
         ]
     },
     {
-        title: "Search",
+        title: "Zoeken",
         icon: "magnifying-glass",
         subtitle: "",
         description: "Devote your attention to finding something",
@@ -152,9 +152,9 @@ data_action = [
         ]
     },
     {
-        title: "Ready",
+        title: "Klaarzetten",
         icon: "stopwatch",
-        subtitle: "Choose trigger and action",
+        subtitle: "Kies omstandigheid en responsreactie",
         description: "Choose a trigger and a response reaction",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -165,9 +165,9 @@ data_action = [
         ]
     },
     {
-        title: "Use class feature",
+        title: "Klassefunctie gebruiken",
         icon: "embrassed-energy",
-        subtitle: "Some features use actions",
+        subtitle: "Sommige features gebruiken acties",
         description: "Use a racial or class feature that uses an action",
         reference: "See class page for more information.",
         bullets: [
@@ -175,9 +175,9 @@ data_action = [
         ]
     },
     {
-        title: "Stabilize a creature",
+        title: "Stabiliseren",
         icon: "first-aid",
-        subtitle: "Administer first aid to a dying creature",
+        subtitle: "Verleen eerstehulp aan een stervend wezen",
         description: "Stop a dying creature from needing to make death saving throws",
         reference: "PHB, pg. 197.",
         bullets: [
@@ -187,9 +187,9 @@ data_action = [
         ]
     },
     {
-        title: "Improvise",
+        title: "Improviseren",
         icon: "juggler",
-        subtitle: "Any action not on this list",
+        subtitle: "Enige actie niet op deze lijst",
         description: "Perform any action you can imagine",
         reference: "PHB, pg. 193.",
         bullets: [
