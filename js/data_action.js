@@ -96,7 +96,7 @@ data_action = [
     {
         title: "Helpen",
         icon: "telepathy",
-        subtitle: "Geef een bondgenoot een voordeelworp",
+        subtitle: "Verleen een voordeelworp",
         description: "Grant an ally advantage on an ability check or attack",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -106,9 +106,9 @@ data_action = [
         ]
     },
     {
-        title: "Object gebruiken",
+        title: "Voorwerp gebruiken",
         icon: "snatch",
-        subtitle: "Interactie met bijzonder object",
+        subtitle: "Tweede of bijzonder object",
         description: "Interact with a second object or use special object abilities",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -119,7 +119,7 @@ data_action = [
     {
         title: "Schild gebruiken",
         icon: "round-shield",
-        subtitle: "Een schild oppakken of afleggen",
+        subtitle: "Oppakken of afleggen",
         description: "Equip or unequip a shield",
         reference: "PHB, pgs. 144-146.",
         bullets: [
@@ -154,7 +154,7 @@ data_action = [
     {
         title: "Klaarzetten",
         icon: "stopwatch",
-        subtitle: "Kies omstandigheid en responsreactie",
+        subtitle: "Kies omstandigheid en respons",
         description: "Choose a trigger and a response reaction",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -167,7 +167,7 @@ data_action = [
     {
         title: "Klassefunctie gebruiken",
         icon: "embrassed-energy",
-        subtitle: "Sommige features gebruiken acties",
+        subtitle: "Sommige gebruiken acties",
         description: "Use a racial or class feature that uses an action",
         reference: "See class page for more information.",
         bullets: [
@@ -177,7 +177,7 @@ data_action = [
     {
         title: "Stabiliseren",
         icon: "first-aid",
-        subtitle: "Verleen eerstehulp aan een stervend wezen",
+        subtitle: "Verleen eerste hulp",
         description: "Stop a dying creature from needing to make death saving throws",
         reference: "PHB, pg. 197.",
         bullets: [
@@ -189,7 +189,7 @@ data_action = [
     {
         title: "Improviseren",
         icon: "juggler",
-        subtitle: "Enige actie niet op deze lijst",
+        subtitle: "",
         description: "Perform any action you can imagine",
         reference: "PHB, pg. 193.",
         bullets: [
