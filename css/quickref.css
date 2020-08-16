@@ -9,7 +9,7 @@
     display: flex;
     flex-direction: column;
     /*font-family: Arial;*/
-    font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    font-family: 'ScalaSansPro', 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
     width:100%;
     margin-bottom:8px;
     page-break-inside: avoid;
@@ -29,7 +29,7 @@
     height: 32px;
     padding-left: 8px;
     padding-right: 8px;
-    font-family: Lora, 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+    font-family: 'Alverata', Lora, 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
     font-variant: small-caps;
     font-weight: bold;
     background-color: inherit;
@@ -100,7 +100,7 @@
 }
 
 .item-desc {
-    font-style: italic;
+/*     font-style: italic; */
     font-size: inherit;
     overflow: hidden;
     text-overflow: ellipsis;
