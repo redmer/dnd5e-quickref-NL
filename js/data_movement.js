@@ -113,7 +113,7 @@ data_movement = [
     {
         title: "Vastgrijpen en bewegen",
         icon: "grab",
-        subtitle: "Wijziger: speed halved",
+        subtitle: "Wijziger: snelheid gehalveerd",
         description: "Drag or carry the grappled creature with you",
         reference: "PHB, pg. 195.",
         bullets: [
