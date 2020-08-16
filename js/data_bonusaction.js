@@ -26,7 +26,7 @@ data_bonusaction = [
     {
         title: "Gebruik klassefunctie",
         icon: "embrassed-energy",
-        subtitle: "Sommige functies gebruiken bonusacties",
+        subtitle: "Sommige gebruiken bonusacties",
         description: "Use a racial or class feature that uses a bonus action",
         reference: "See class page for more information.",
         bullets: [
