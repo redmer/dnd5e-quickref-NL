@@ -1,9 +1,9 @@
 data_movement = [
     {
-        title: "Move",
+        title: "Lopen",
         icon: "run",
-        subtitle: "Cost: 5ft per 5ft",
-        description: "Movement cost: 5ft per 5ft moved",
+        subtitle: "Kost: 5ft per 5ft",
+        description: "Bewegingkosten: 5ft per 5ft bewogen",
         reference: "PHB, pg. 190.",
         bullets: [
             "If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
@@ -14,29 +14,29 @@ data_movement = [
         ]
     },
     {
-        title: "Climb",
+        title: "Klimmen",
         icon: "crags",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft climbed",
+        subtitle: "Kost: 10ft per 5ft",
+        description: "Bewegingkosten: 10ft per 5ft geklommen",
         reference: "PHB, pg. 182.",
         bullets: [
             "May involve a Strength (Athletics) check if the climb is difficult"
         ]
     },
     {
-        title: "Swim",
+        title: "Zwemmen",
         icon: "at-sea",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft swum",
+        subtitle: "Kost: 10ft per 5ft",
+        description: "Bewegingkosten: 10ft per 5ft gezwommen",
         reference: "PHB, pg. 182.",
         bullets: [
             "May involve a Strength (Athletics) check if the swim is difficult"
         ]
     },
     {
-        title: "Drop prone",
+        title: "Plat gaan liggen",
         icon: "falling",
-        subtitle: "Cost: 0ft",
+        subtitle: "Kost: 0ft",
         description: "Movement cost: 0ft (free)",
         reference: "PHB, pgs. 190-191,292.",
         bullets: [
@@ -46,9 +46,9 @@ data_movement = [
         ]
     },
     {
-        title: "Crawl",
+        title: "Kruipen",
         icon: "crawl",
-        subtitle: "Cost: 10ft per 5ft",
+        subtitle: "Kost: 10ft per 5ft",
         description: "Movement cost: 10ft per 5ft crawled",
         reference: "PHB, pg. 182.",
         bullets: [
@@ -56,9 +56,9 @@ data_movement = [
         ]
     },
     {
-        title: "Stand up",
+        title: "Opstaan",
         icon: "strong",
-        subtitle: "Cost: half movement speed",
+        subtitle: "Kost: half movement speed",
         description: "Movement cost: half of your speed",
         reference: "PHB, pg. 190-191.",
         bullets: [
@@ -66,9 +66,9 @@ data_movement = [
         ]
     },
     {
-        title: "High jump",
+        title: "Omhoog springen",
         icon: "wingfoot",
-        subtitle: "Cost: 5ft per 5ft",
+        subtitle: "Kost: 5ft per 5ft",
         description: "Movement cost: 5ft per 5ft jumped",
         
         reference: "PHB, pg. 182.",
@@ -80,9 +80,9 @@ data_movement = [
         ]
     },
     {
-        title: "Long jump",
+        title: "Ver springen",
         icon: "wingfoot",
-        subtitle: "Cost: 5ft per 5ft",
+        subtitle: "Kost: 5ft per 5ft",
         description: "Movement cost: 5ft per 5ft jumped",
         reference: "PHB, pg. 182.",
         bullets: [
@@ -93,27 +93,27 @@ data_movement = [
         ]
     },
     {
-        title: "Improvise",
+        title: "Improviseren",
         icon: "juggler",
-        subtitle: "Any stunt not on this list",
+        subtitle: "Een beweging niet op de kaart",
         description: "Perform any movement or stunt you can imagine",
         bullets: [
             "When you describe a kind of movement not detailed elsewhere in the rules, the DM tells you whether it is possible and what kind of roll you need to make, if any, to determine success or failure."
         ]
     },
     {
-        title: "Difficult terrain",
+        title: "Lastig terrein",
         icon: "stone-pile",
-        subtitle: "Cost modifier: +5ft per 5ft",
+        subtitle: "Kostenwijziger: +5ft per 5ft",
         reference: "PHB, pg. 182.",
         description: "Moving in difficult terrain costs an additional 5ft per 5ft of movement",
         bullets: [
         ]
     },
     {
-        title: "Grapple move",
+        title: "Vastgrijpen en bewegen",
         icon: "grab",
-        subtitle: "Modifier: speed halved",
+        subtitle: "Wijziger: speed halved",
         description: "Drag or carry the grappled creature with you",
         reference: "PHB, pg. 195.",
         bullets: [
