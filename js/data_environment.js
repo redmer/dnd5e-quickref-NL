@@ -1,8 +1,8 @@
 data_environment_obscurance = [
     {
-        title: "Lightly obscured",
+        title: "Lichtelijk verduisterd",
         icon: "bleeding-eye",
-        subtitle: "Disadvantage on Perception",
+        subtitle: "Nadeel op Perceptie",
         description: "Dim light, patchy fog, moderate foliage",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -10,9 +10,9 @@ data_environment_obscurance = [
         ]
     },
     {
-        title: "Heavily obscured",
+        title: "Zwaar verduisterd",
         icon: "lightning-tear",
-        subtitle: "Effectively blind",
+        subtitle: "Effectief blind",
         description: "Darkness, opaque fog, dense foliage",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -23,9 +23,9 @@ data_environment_obscurance = [
 
 data_environment_light = [
     {
-        title: "Bright light",
+        title: "Fel licht",
         icon: "star-pupil",
-        subtitle: "Normal vision",
+        subtitle: "Normaal zicht",
         description: "Bright light lets most creatures see normally",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -33,9 +33,9 @@ data_environment_light = [
         ]
     },
     {
-        title: "Dim light",
+        title: "Dimlicht",
         icon: "semi-closed-eye",
-        subtitle: "Lightly obscured",
+        subtitle: "Lichtelijk verduisterd",
         description: "Dim light, also called shadows",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -45,9 +45,9 @@ data_environment_light = [
         ]
     },
     {
-        title: "Darkness",
+        title: "Duisternis",
         icon: "worried-eyes",
-        subtitle: "Heavily obscured",
+        subtitle: "Zwaar verduisterd",
         description: "Darkness creates a heavily obscured area",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -59,9 +59,9 @@ data_environment_light = [
 
 data_environment_vision = [
     {
-        title: "Blindsight",
+        title: "Blindzicht",
         icon: "one-eyed",
-        subtitle: "Perceive without sight",
+        subtitle: "Zien zonder zicht",
         description: "Perceive your surroundings without relying on sight, within a certain radius",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -69,9 +69,9 @@ data_environment_vision = [
         ]
     },
     {
-        title: "Darkvision",
+        title: "Nachtzicht",
         icon: "semi-closed-eye",
-        subtitle: "Limited vision in darkness",
+        subtitle: "Beperkt zicht in het duister",
         description: "A creature with Darkvision can see better in the dark or low light conditions, within a certain radius",
         reference: "PHB, pgs. 183-184.",
         bullets: [
@@ -81,9 +81,9 @@ data_environment_vision = [
         ]
     },
     {
-        title: "Truesight",
+        title: "Zuiverzicht",
         icon: "eye-shield",
-        subtitle: "See in darkness",
+        subtitle: "De ware omgeving zien",
         description: "A creature with truesight can see everything in its true form, independent of the environment",
         reference: "PHB, pg. 184.",
         bullets: [
@@ -95,9 +95,9 @@ data_environment_vision = [
 
 data_environment_cover = [
     {
-        title: "Half cover",
+        title: "Halve dekking",
         icon: "broken-shield",
-        subtitle: "Low wall, furniture, creatures",
+        subtitle: "Lage muur, meubels, wezens",
         description: "A target has half cover if an obstacle blocks at least half of its body",
         reference: "PHB, pg. 196.",
         bullets: [
@@ -107,9 +107,9 @@ data_environment_cover = [
         ]
     },
     {
-        title: "Three-quarters cover",
+        title: "Driekwart dekking",
         icon: "cracked-shield",
-        subtitle: "Portcullis, arrow slit",
+        subtitle: "Hekwerk, dikke boomstronk",
         description: "A target has three-quarters cover if about three-quarters of it is covered by an obstacle",
         reference: "PHB, pg. 196.",
         bullets: [
@@ -119,9 +119,9 @@ data_environment_cover = [
         ]
     },
     {
-        title: "Full cover",
+        title: "Volledige dekking",
         icon: "shield",
-        subtitle: "Completely concealed",
+        subtitle: "Compleet verborgen",
         description: "A target has total cover if it is completely concealed by an obstacle",
         reference: "PHB, pg. 196.",
         bullets: [
