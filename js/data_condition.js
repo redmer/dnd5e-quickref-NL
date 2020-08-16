@@ -1,6 +1,6 @@
 data_condition = [
     {
-        title: "Blinded",
+        title: "Verblind",
         icon: "one-eyed",
         subtitle: "You can't see",
         description: "You can't see",
@@ -12,7 +12,7 @@ data_condition = [
         ]
     },
     {
-        title: "Charmed",
+        title: "Betoverd",
         icon: "smitten",
         subtitle: "You are charmed",
         description: "You are charmed by another creature",
@@ -23,7 +23,7 @@ data_condition = [
         ]
     },
     {
-        title: "Deafened",
+        title: "Doofgemaakt",
         icon: "elf-ear",
         subtitle: "You can't hear",
         description: "You can't hear",
@@ -33,7 +33,7 @@ data_condition = [
         ]
     },
     {
-        title: "Exhaustion",
+        title: "Uitgeput",
         icon: "crawl",
         subtitle: "You are exhausted",
         description: "Exhaustion is measured in six levels",
@@ -46,7 +46,7 @@ data_condition = [
         ]
     },
     {
-        title: "Frightened",
+        title: "Bang",
         icon: "sharp-smile",
         subtitle: "You are frightened",
         description: "You are frightened",
@@ -57,7 +57,7 @@ data_condition = [
         ]
     },
     {
-        title: "Grappled",
+        title: "Vastgegrepen",
         icon: "grab",
         subtitle: "You are grappled",
         description: "You are grappled",
@@ -69,18 +69,18 @@ data_condition = [
         ]
     },
     {
-        title: "Incapacitated",
+        title: "Uitgeschakeld",
         icon: "internal-injury",
-        subtitle: "You can't take actions or reactions",
+        subtitle: "Geen acties of reacties nemen. (Incapacitated)",
         description: "You can't take actions or reactions",
         reference: "PHB, pg. 290.",
         bullets: [
         ]
     },
     {
-        title: "Invisible",
+        title: "Onzichtbaar",
         icon: "invisible",
-        subtitle: "You can't be seen",
+        subtitle: "Invisible",
         description: "You can't be seen without the aid of magic or a special sense",
         reference: "PHB, pg. 291.",
         bullets: [
@@ -91,7 +91,7 @@ data_condition = [
         ]
     },
     {
-        title: "Paralyzed",
+        title: "Verlamd",
         icon: "internal-injury",
         subtitle: "You are paralyzed",
         description: "You can't do anything",
@@ -103,9 +103,9 @@ data_condition = [
         ]
     },
     {
-        title: "Petrified",
+        title: "Versteend",
         icon: "stone-pile",
-        subtitle: "You are transformed into stone",
+        subtitle: "You are petrified",
         description: "You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)",
         reference: "PHB, pg. 291.",
         bullets: [
@@ -118,7 +118,7 @@ data_condition = [
         ]
     },
     {
-        title: "Poisoned",
+        title: "Vergiftigd",
         icon: "deathcab",
         subtitle: "You are poisoned",
         description: "You are poisoned",
@@ -128,7 +128,7 @@ data_condition = [
         ]
     },
     {
-        title: "Prone",
+        title: "Liggend",
         icon: "crawl",
         subtitle: "You are prone",
         description: "You are prone",
@@ -140,7 +140,7 @@ data_condition = [
         ]
     },
     {
-        title: "Restrained",
+        title: "In bedwang gehouden",
         icon: "imprisoned",
         subtitle: "You are restrained",
         description: "You are restrained",
@@ -153,7 +153,7 @@ data_condition = [
         ]
     },
     {
-        title: "Stunned",
+        title: "Verdoofd",
         icon: "internal-injury",
         subtitle: "You are stunned",
         description: "You are stunned",
@@ -165,7 +165,7 @@ data_condition = [
         ]
     },
     {
-        title: "Unconscious",
+        title: "Bewusteloos",
         icon: "coma",
         subtitle: "You are unconscious",
         description: "You are unconscious",
@@ -179,7 +179,7 @@ data_condition = [
         ]
     },
     {
-        title: "Dying",
+        title: "Stervend",
         icon: "dead-head",
         subtitle: "You are dying",
         description: "You have been dropped to zero hit points and are dying",
